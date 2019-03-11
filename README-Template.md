@@ -6,7 +6,7 @@ Predicting best airline experience through data analysis with Python. We are loo
 
 There are two options for exploring this project.
 
-1. Visit the following link for viewing only: https://nbviewer.jupyter.org/github/afdoner/Help-Me-Fly/blob/master/Doner_Midterm_Exam.ipynb.
+1. Visit the following link for viewing only: https://nbviewer.jupyter.org/github/afdoner/Help-Me-Fly/blob/master/Help-Me-Fly.ipynb.
 
 OR
 
@@ -18,6 +18,7 @@ OR
 Jupyter Notebook is required if you chose option #2 to view and execute the code. An additional prerequisite is Anaconda. You can find the download links here:
 
 Anaconda - https://www.anaconda.com/distribution/
+
 Jupyter - https://jupyter.org/install
 
 After launching Jupyter Notebook, navigate to the downloaded file and open it to begin exploring the code.
